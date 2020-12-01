@@ -1,6 +1,6 @@
 # Discord-Message-Logger
 
-The reason I made this is that I wanted to have notifications from my other Discord Accounts and for all the messages to be Logged as well so I quickly made this and am now releasing it incase someone needs a similar thing. (Will be adding updates(
+The reason I made this is that I wanted to have notifications from my other Discord Accounts and for all the messages to be Logged as well so I quickly made this and am now releasing it incase someone needs a similar thing. (Will be adding updates)
 
 > Features
 
