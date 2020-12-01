@@ -19,6 +19,7 @@ The reason I made this is that I wanted to have notifications from my other Disc
 - Python 3.6+
 - Discord module
 - Discord user authorization token
+- Discord Server Webhook 
 
 > Setup
 
